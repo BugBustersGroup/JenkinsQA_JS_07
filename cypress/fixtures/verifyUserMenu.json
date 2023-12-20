@@ -1,5 +1,0 @@
-{
-  "userMenuLinks" : ["Builds", "Configure", "My Views", "Credentials"],
-  "userMenuEndPoints" : ["/builds","/configure", "/my-views","/credentials"],
-  "userMenuPageHeaders" : ["Builds for", "Extended Email Job Watching", "This folder is empty", "Credentials"]
-}
